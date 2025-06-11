@@ -1,4 +1,4 @@
-dash
-flask
 pandas
+dash
 plotly
+gunicorn
